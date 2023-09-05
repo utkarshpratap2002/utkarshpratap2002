@@ -1,4 +1,4 @@
-![image](https://cdn.dribbble.com/userupload/9820439/file/original-8ee983d404130d547d3a85a728d43a50.gif?resize=1024x576)
+![image](https://cdn.dribbble.com/userupload/9820899/file/original-4beafc5e1c29b9bd0a0b95c781a4c134.png?resize=1200x628)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
 <h3 align="center">A passionate Software Engineer who is curious about making contributions on open-source and creating tech to elevate the grade of living. I am a passionate Python learner, I worked with Flask, numpy, pandas, networkx and many more such libraries.</h3>
