@@ -1,7 +1,9 @@
+<h1>Hi, I'm Utkarsh Pratap Singh 😄👨🏻‍💻</h1>
+
 ![image](https://cdn.dribbble.com/userupload/9820899/file/original-4beafc5e1c29b9bd0a0b95c781a4c134.png?resize=1200x628)
 
-<h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
-<h3 align="center">Skilled in Linux Administration, Networking, and server management, including Apache, LDAP, DNS, and Docker containers. Seeking a challenging role to apply and further develop my expertise.</h3>
+Skilled in Linux Administration, Networking, and server management, including Apache, LDAP, DNS, and Docker containers. Seeking a challenging role to apply and further develop my expertise. Learning Technologies. Sharing Knowledge. Empowering Learning. Enjoy working on **bind**, **postfix**, and **devcot**. Into Docker Containerisation, Docker Deployment, and Container Orchestration. Lets Build and Grow!
+
 <!-- <img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1jkX2F2Cc50SwdrCaA-CLJ-qvAQDQehIt/view](https://dribbble.com/shots/22468064-WHO-S-UT)"> -->
 
 - 🔭 I’m currently working on **Flask Applications**
