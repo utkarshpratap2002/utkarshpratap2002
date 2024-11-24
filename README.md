@@ -1,15 +1,16 @@
 ![image](https://cdn.dribbble.com/userupload/9820899/file/original-4beafc5e1c29b9bd0a0b95c781a4c134.png?resize=1200x628)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Pratap Singh</h1>
-<h3 align="center">A passionate Software Engineer who is curious about making contributions on open-source and creating tech to elevate the grade of living. I am a passionate Python learner, I worked with Flask, numpy, pandas, networkx and many more such libraries.</h3>
+<h3 align="center">Skilled in Linux Administration, Networking, and server management, including Apache, LDAP, DNS, and Docker containers. Seeking a challenging role to apply and further develop my expertise.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1jkX2F2Cc50SwdrCaA-CLJ-qvAQDQehIt/view](https://dribbble.com/shots/22468064-WHO-S-UT)"> -->
-- 🔭 I’m currently working on **Python APIs**
 
-- 🌱 I’m currently learning **Handoop and Apache**
+- 🔭 I’m currently working on **Flask Applications**
 
-- 💬 Ask me about **Data Engineers**
+- 🌱 I’m currently learning **Ngnix and Apache**
 
-- 📫 How to reach me **itsutkarshpratapon@gmail.com**
+- 💬 Ask me about **Privacy and Protection of Information**
+
+- 📫 How to reach me ***itsutkarshpratapon@gmail.com***
 
 - ⚡ Fun fact **Can you code Backwards? Because Kangaroos can't.**
 
